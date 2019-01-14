@@ -33,3 +33,5 @@ WebUI.click(findTestObject('Object Repository/Page_Yahoo/a_News'))
 
 WebUI.navigateToUrl('https://github.com/')
 
+WebUI.navigateToUrl('https://www.google.com/')
+
